@@ -37,18 +37,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-12-29T21:53:34.284Z",
-      "notes": "tst",
-      "position": {
-        "lat": "39.99145692247819",
-        "lng": "-0.0036048889160156254"
-      },
-      "id": 98443198
-    },
-    {
       "cityName": "Wainfleet",
       "country": "Canada",
       "emoji": "🇨🇦",
@@ -59,6 +47,18 @@
         "lng": "-79.48608398437501"
       },
       "id": 98443199
+    },
+    {
+      "cityName": "Vilafames",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-29T22:24:39.413Z",
+      "notes": "test",
+      "position": {
+        "lat": "40.15198118701679",
+        "lng": "-0.07844924926757812"
+      },
+      "id": 98443200
     }
   ]
 }
